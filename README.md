@@ -32,6 +32,9 @@ El núcleo de la IA toma decisiones en tiempo real bajo tres reglas operacionale
 3. Ejecuta el script principal de la simulación:
    `python simulador.py`
 
+## 📹 Demostracion (video de Youtube)
+[![Demostración del Simulador](https://img.youtube.com/vi/D-C52OT2Au8/0.jpg)](https://www.youtube.com/watch?v=D-C52OT2Au8)
+
 ## 👨‍💻 Autor
 * **Nombre:** Ramirez Cardenas Luis Armando
 * **Materia:** Patrones de Comportamiento de Datos
