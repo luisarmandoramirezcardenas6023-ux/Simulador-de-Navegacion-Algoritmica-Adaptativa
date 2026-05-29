@@ -35,4 +35,5 @@ El núcleo de la IA toma decisiones en tiempo real bajo tres reglas operacionale
 ## 👨‍💻 Autor
 * **Nombre:** Ramirez Cardenas Luis Armando
 * **Materia:** Patrones de Comportamiento de Datos
+* **Profesor:** Adrian Rodriguez Aguiñaga
 
