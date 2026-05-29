@@ -33,4 +33,6 @@ El núcleo de la IA toma decisiones en tiempo real bajo tres reglas operacionale
    `python simulador.py`
 
 ## 👨‍💻 Autor
-Desarrollado como proyecto de Inteligencia de Negocios para el análisis de Patrones de Comportamiento de Datos.
+* **Nombre:** Ramirez Cardenas Luis Armando
+* **Materia:** Patrones de Comportamiento de Datos
+
